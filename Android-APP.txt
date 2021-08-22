@@ -1,4 +1,3 @@
 Perencanaan Android-APP:
-- berencana untuk membuat aplikasi android
 - berencana untuk membuat game android
 - berencana untuk membuat game pc
