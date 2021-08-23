@@ -1,6 +1,9 @@
 rencana baru
 - belajar javascript
   ^ Angular
+  ^ ES6
 - belajar react
 - belajar php
 - belajar html
+- belajar react
+- belajar css
