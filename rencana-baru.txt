@@ -1,4 +1,6 @@
 rencana baru
 - belajar javascript
+  ^ ES6
 - belajar react
 - belajar kotlin
+- belajar css
