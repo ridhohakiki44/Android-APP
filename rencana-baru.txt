@@ -1,4 +1,6 @@
 rencana baru
 - belajar javascript
+  ^ Angular
 - belajar react
-- belajar kotlin
+- belajar php
+- belajar html
