@@ -1,0 +1,4 @@
+rencana baru
+- belajar javascript
+- belajar react
+- belajar kotlin
